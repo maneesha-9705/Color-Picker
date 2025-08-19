@@ -23,7 +23,9 @@ A simple powerful mini project that allows you to pick color
 
  -----------------
 
- #How to run
+ #Author
+ MANEESHA GARIKIPATI 
+ Aspiring FullStack Developer
 
  
 
