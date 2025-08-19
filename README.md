@@ -14,12 +14,12 @@ A simple powerful mini project that allows you to pick color
  -------------------
  #Technologies used
 
- -HTML
- -CSS
- -JAVASCRIPT
- -DOM maniplution
- -Events handlings
- -Functions
+ - HTML
+ - CSS
+ - JAVASCRIPT
+ - DOM maniplution
+ - Events handlings
+ - Functions
 
  -----------------
 
