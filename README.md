@@ -1,5 +1,5 @@
 # Color-Picker
-To pick your desired color 
+To pick your desired color .
 A simple powerful mini project that allows you to pick color
 
 
