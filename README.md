@@ -23,6 +23,9 @@ A simple powerful mini project that allows you to pick color
 
  -----------------
 
+ #try these
+ https://maneesha-9705.github.io/Color-Picker/
+
  #Author
  
  MANEESHA GARIKIPATI 
